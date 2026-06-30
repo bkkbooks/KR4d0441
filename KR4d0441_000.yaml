@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0441/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0441_WYG_000-1a, image: WYG1195/WYG1195-0659a.png}
+body:
+  text: 谷響集别集類四元提要臣等謹案谷響集三卷元釋善住撰善住字無住别號雲屋嘗居吳郡城之報恩寺往來吳淞江上與仇逺白珽虞集宋無諸人相酬唱集中癸亥嵗寓居錢塘千頃寺述懷詩有髙閣攻書三十年句從英宗至治三年癸亥上推三十年為世祖至元三十一年甲午距宋亡僅十四年其贈隱者詩有對食慙周粟紉衣尚楚蘭句蓋猶及見宋之遺老故所作頗能不失矩矱觀其論詩有云典雅始成唐句法粗豪終有宋人風命意極為不凡及核其篇什則但工近體大抵以清隽雕琢為事頗近四靈江湖之派終不脫宋人窠臼所言未免涉於過髙然其秀骨天成絶無蔬筍之氣佳處亦未易及在當時詩僧中固宜首屈一指也乾隆四十五年七月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:2764efce29be76e7e208655c0b90184ce3ec73c6b33fa1e6f857c1d8a9064baa
+metadata:
+  title: 谷響集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:09:18.401733'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0441/KR4d0441_000.txt
+hash: sha256:da082f7d593119cfd968e9788f36a88cd9095528174e8bdc7da6ce4cdbf941ac
